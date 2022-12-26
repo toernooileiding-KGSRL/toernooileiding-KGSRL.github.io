@@ -1,0 +1,30 @@
+//	<!-- Nominette retournee -->
+//	<div style='break-inside:avoid;'>
+//	<div class='div180'>	<!-- ========== NOMINETTE INVERSEE ========== -->
+//	
+//	<!-- * A RECOPIER DANS NOMINETTE NORMALE -->
+<table align='center'>
+ <!-- * LIGNE 1 -->
+ <tr><th class='th1' width='15%'><img src='Logos/SwarLogo.png' alt='[SwarLogo]'></th>
+//    	<!-- * Soit ORGANISATEUR soit IMAGE -->
+ <th class='th3'>[ORGANISATEUR]</th>
+ <th class='th1'><img src='[IMAGE]' width='85%' height='100' alt='[Image]'></th>
+ <th class='th1' width='15%'><img src='Logos/SwarLogo.png' alt='[SwarLogo]'>[NUM]</th>
+ </tr>
+	<!-- * LIGNE 2 -->	
+ <tr><th class='th1' colspan='3' style='font-size:24pt;'>[TOURNOI]</th></tr>
+	<!-- * LIGNE 3 -->
+ <tr><td class='th1' width='15%'><img src='[LOGO_FEDE]' height='80' alt='[LOGO_FEDE]'></td>
+     <td><table align='center'>
+//          	  <!-- * Soit FED_LETTRE soit FED_DRAPEAU -->  
+          <tr><th class='th2'>[NOM][FED]</th></tr>
+//          <tr><th class='th2'>[NOM]<img src='[FED_DRAPEAU].gif' alt='[NAT.gif]'></th></tr>
+    <!-- * LIGNE 4 -->
+          <tr><td>[ELO_4][CAT_4][CLUB_4]</td></tr>
+    <!-- * LIGNE 5 -->
+          <tr><td>[ELO_5][CAT_5][CLUB_5]</td></tr>
+         </table>
+    </td>
+    <td class='th1' width='15%'><img src='[LOGO_CLUB]' width='85%' height='80' alt='[LOGO_CLUB]'></td>
+ </tr>
+</table>

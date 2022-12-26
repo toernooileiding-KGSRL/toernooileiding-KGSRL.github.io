@@ -1,0 +1,49 @@
+<!doctype html>  
+<html lang='%s'>
+<head>
+<meta charset='utf-8'>
+
+<style>
+	
+div {
+	width: 850px;
+	font-size: 20pt;
+	text-align:center;
+}
+.div180 {
+	transform: rotate(180deg);
+}
+
+table {
+	width:100%;	
+	table-layout: fixed;
+	font-size: 20pt;
+}
+
+.th1 {
+	background-color: #EEEEEE; 
+	}
+.th2 {
+	background-color: skyblue; 
+	font-size: 26pt; 
+}
+.th3 {
+	background-color: bisque;
+	font-size: 30pt;
+}
+.tdimage {
+	vertical-align:middle;
+	width:15%;
+	text-align: center;
+}
+
+.th4 {
+	height:5px;
+	background-color: black;
+}
+</style>	
+
+<title>nominettes</title>
+</head>
+
+<body>
